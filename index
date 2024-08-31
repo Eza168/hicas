@@ -1,3 +1,7 @@
+<?php
+//* Permanently redirect page
+header("https://elearnksgst.kerala.gov.in/lib/hub/",TRUE,301);
+?>
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
